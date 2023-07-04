@@ -10,10 +10,12 @@ To use this widget you need:
 1. "Sign in" or "Create an account" on OpenWeather site and get your private API_KEY. Link https://openweathermap.org/
 2. Enter your private API_KEY into "apiService.js" file.
 
-![main](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/ba27e7cf-213c-45f1-b28b-308a39ba2712)
 
 
-![change city](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/c2649e6d-3e23-45af-a237-70903de45bcf)
+![main](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/94f4f626-707a-4048-959d-4b6b7d6a3a53)
 
 
-![other city](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/300db51b-1522-4c08-ae4e-401659d3c8c2)
+![change city](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/1d525010-0ff2-4d4e-ac62-ac8f452a19d2)
+
+
+![other city](https://github.com/Marinayurkevich/widget_currentWeather/assets/90932695/00a06ed2-fd9c-446d-bab3-9f5fa27a7e4d)
